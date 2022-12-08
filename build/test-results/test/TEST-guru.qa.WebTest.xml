@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="guru.qa.WebTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-08T18:07:29" hostname="Almass-MacBook.local" time="44.292">
+  <properties/>
+  <testcase name="Asserting tab Учебникshows header Современный учебник JavaScript" classname="guru.qa.WebTest" time="39.215"/>
+  <testcase name="Asserting tab Курсыshows header Онлайн-курсы по JavaScript-технологиям" classname="guru.qa.WebTest" time="5.058"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 7190
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+]]></system-err>
+</testsuite>
